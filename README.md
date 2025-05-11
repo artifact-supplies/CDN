@@ -1,1 +1,1 @@
-`https://cdn.jsdelivr.net/gh/artifact-supplise/CDN/`
+address: `https://cdn.jsdelivr.net/gh/artifact-supplise/CDN/`
