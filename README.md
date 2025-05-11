@@ -1,1 +1,1 @@
-cdn: `https://cdn.jsdelivr.net/gh/artifact-supplies/CDN/`
+`cdn` `https://cdn.jsdelivr.net/gh/artifact-supplies/CDN/`
